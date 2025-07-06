@@ -89,6 +89,43 @@
     "森林资源站": {
       "api": "https://slapibf.com/api.php/provide/vod",
       "name": "森林资源站"
+    },
+    "细胞网资源": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "细胞网资源"
+    },
+    "小鸡": {
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "name": "小鸡资源网",
+      "detail": "https://api.xiaojizy.live"
+  },
+    "黄色仓库资源": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "黄色仓库资源"
+    },
+    "大奶子资源网": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "大奶子资源网"
+    },
+    "JKUN": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "JKUN"
+    },
+    "番号资源网": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "番号资源网"
+    },
+    "老色逼资源站": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "老色逼资源站"
+    },
+    "玉兔资源": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源"
+    },
+    "黄瓜资源": {
+      "api": "https://www.avre06.com/api.php/Prodao/vod",
+      "name": "黄瓜资源"
     }
-  }
+ }
 }
