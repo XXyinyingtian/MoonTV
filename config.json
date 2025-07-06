@@ -84,13 +84,11 @@
     },
     "奶香香资源站": {
       "api": "https://naixxzy.com/api.php/provide/vod",
-      "name": "奶香香资源站",
-      "detail": "https://naixxzy.cc"
+      "name": "奶香香资源站"
     },
     "森林资源站": {
       "api": "https://slapibf.com/api.php/provide/vod",
-      "name": "森林资源站",
-      "detail": "https://senlinzy.com/"
+      "name": "森林资源站"
     }
   }
 }
