@@ -126,6 +126,14 @@
     "黄瓜资源": {
       "api": "https://www.avre06.com/api.php/Prodao/vod",
       "name": "黄瓜资源"
+    },
+    "茅台资源": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
+    },
+    "金马": {
+      "api": "https://api.jmzy.com/api.php/provide/vod",
+      "name": "金马"
     }
  }
 }
