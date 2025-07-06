@@ -77,9 +77,9 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-     "ffzy": {
+     "非凡资源站": {
       "api": "http://api.ffzyapi.com/api.php/seacms/vod",
-      "name": "非凡综合资源"
+      "name": "非凡资源站"
     }
   }
 }
