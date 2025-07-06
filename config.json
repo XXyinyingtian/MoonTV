@@ -77,9 +77,9 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-     "快播": {
-      "api": "https://gayapi.com/api.php/provide/vod",
-      "name": "快播资源"
+     "115": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "115资源"
     }
   }
 }
